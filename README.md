@@ -6,7 +6,7 @@
 - :seedling: Learning in [42Madrid](https://www.42madrid.com)
 - :dancers: I’m looking to collaborate on Machine Learning
 - :computer: Expertises with C language and Unix system
-- :male-technologist: Junior Software Dev
+- man_technologist Junior Software Dev
 - :house: Living in Madrid
 - :mailbox: How to reach me: tascon1010100@gmail.com
 - 
