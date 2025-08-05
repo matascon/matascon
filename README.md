@@ -9,7 +9,7 @@
 - :mailbox: How to reach me: tascon1010100@gmail.com
 
 
-![Mateo's github stats](https://github-readme-stats.vercel.app/api?username=matascon&show_icons=true)
+![Mateo's github stats](https://github-readme-stats.vercel.app/api?username=matascon&theme=dark&show_icons=true&count_private=true)
 
 [![Top Langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=chinmay29hub&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10)
 
