@@ -8,8 +8,5 @@
 - :house: Living in Madrid
 - :mailbox: How to reach me: tascon1010100@gmail.com
 
-
-![Mateo's github stats](https://github-readme-stats.vercel.app/api?username=matascon&show_icons=true&theme=dark)
-
-[![Top Langs]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matascon"/>
-
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,spring,express,mysql,mongodb,idea,vite,git,github,docker,bash,bootstrap,linux)](https://skillicons.dev)
